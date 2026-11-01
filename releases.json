@@ -1,0 +1,22 @@
+{
+  "latest": "1.0.0",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-01",
+      "notes": [
+        "Your weekly Pinterest hour: keywords, a full pin batch, export and schedule",
+        "Studio: make image pins from your own photos, GIFs and stickers, with background removal",
+        "Carousel to pins: turn Instagram carousels into Pinterest pins",
+        "Video library: turn videos you've already posted into Pinterest video pins, cut on your Mac",
+        "Canva: send pins to your own Canva templates, with 15 starter templates",
+        "Results, Winners and money by offer",
+        "Pipeline folder: inbox, library and exports, all in one place",
+        "Sample data, help on every page, backups and support reports"
+      ],
+      "file": "https://raw.githubusercontent.com/contentbyramlah-workflow/pinterest-playground-releases/main/files/pipeline-1.0.0.zip.enc",
+      "sha256": "5edb028c45a6bc7a558c0fdd631f7feb0e352a5fcd2092cd7ece02cf2566e3fe",
+      "minVersion": "1.0.0"
+    }
+  ]
+}
