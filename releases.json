@@ -1,6 +1,17 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "releases": [
+    {
+      "version": "1.0.2",
+      "date": "2026-11-02",
+      "notes": [
+        "Choose your currency in Strategy: earnings, Path and Results show it everywhere",
+        "Video library: a direct link to your 5 · My videos folder in Canva"
+      ],
+      "file": "https://raw.githubusercontent.com/contentbyramlah-workflow/pinterest-playground-releases/main/files/pipeline-1.0.2.zip.enc",
+      "sha256": "7a2dc1fd44f47c6a6ca571dc935c61ca129fb466cd3f2fd9d62b3c0ab9efe4aa",
+      "minVersion": "1.0.0"
+    },
     {
       "version": "1.0.1",
       "date": "2026-11-02",
