@@ -1,6 +1,17 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "releases": [
+    {
+      "version": "1.0.3",
+      "date": "2026-11-02",
+      "notes": [
+        "Video pins: use your own fonts and colours for the hook text. Drop fonts in fonts › my-fonts and say \"change my video style\"",
+        "The version number in the sidebar now shows the version you are on"
+      ],
+      "file": "https://raw.githubusercontent.com/contentbyramlah-workflow/pinterest-playground-releases/main/files/pipeline-1.0.3.zip.enc",
+      "sha256": "737176b5b5d3baf4105d5aa81c744b7de6a5d2bbadd4a7936a120fb1d568a26d",
+      "minVersion": "1.0.0"
+    },
     {
       "version": "1.0.2",
       "date": "2026-11-02",
