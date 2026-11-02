@@ -1,6 +1,16 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "releases": [
+    {
+      "version": "1.0.1",
+      "date": "2026-11-02",
+      "notes": [
+        "Studio: Remove background works again (it did nothing when pressed)"
+      ],
+      "file": "https://raw.githubusercontent.com/contentbyramlah-workflow/pinterest-playground-releases/main/files/pipeline-1.0.1.zip.enc",
+      "sha256": "b589fa445bce61126c6a9d02a2b7bd815d6bca37f46408dd6f6284ce3a3057d8",
+      "minVersion": "1.0.0"
+    },
     {
       "version": "1.0.0",
       "date": "2026-11-01",
