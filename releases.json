@@ -1,6 +1,17 @@
 {
-  "latest": "1.0.3",
+  "latest": "1.2.0",
   "releases": [
+    {
+      "version": "1.2.0",
+      "date": "2026-11-04",
+      "notes": [
+        "\"Export my pins\" now saves your finished Canva designs, with any changes you made in Canva, instead of the dashboard's version",
+        "Export & schedule reminds you to say \"export my pins\" when you've sent pins to Canva"
+      ],
+      "file": "https://raw.githubusercontent.com/contentbyramlah-workflow/pinterest-playground-releases/main/files/pipeline-1.2.0.zip.enc",
+      "sha256": "990bab5b379f68e01406051ea92edd5eeaa3d47d5da8a624c58dc326d1889574",
+      "minVersion": "1.0.0"
+    },
     {
       "version": "1.0.3",
       "date": "2026-11-02",
